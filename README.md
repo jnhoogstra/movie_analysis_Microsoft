@@ -22,19 +22,25 @@ As we started to compile of our data and examine it, we realized that there was 
 As our analysis started to come to an end, we came up with a range of options for Microsoft to choose from based on their budget and how much risk they are willing to take. These ranges were based on the size of the average size budget that is needed for each genre to be successful. Based on our analysis, in the low risk range, Comedy and Romance were the genres of movies that had the best success and greater chance to generate a successfull movie. In the medium risk range, Action and Sci Fi were the genres that used a medium size budget and had a good chance of success. If Microsoft wanted to go all out and make a big investment, they can create an Animation film that would have a high risk, but a greater chance of a huge payout in the end. 
 
 ### Vote Average
-![](images/vote_average.png)
+![](images/avgvotes2.png)
 ### Vote Count
-![](images/vote_count.png)
+![](images/avgvotecount2.png)
 ### Revenue  and Budget
 
 ![](images/revandbudgetpergenre.png)
 
 ### Budget v Profit 
+Sci-Fi Action movies fall into the low risk category where the optimal budget falls between 25-75 million dollars.
 ![](images/budgetvprofitaction.png)
-![](images/budgetvprofitanimation.png)
+![](images/budgetvprofitscifi.png)
+
+Rom-Com films fall into the medium risk category where the optimal budget falls between 75-125 million dollars.
 ![](images/budgetvprofitcomedy.png)
 ![](images/budgetvprofitromance.png)
-![](images/budgetvprofitscifi.png)
+
+Animation movies fall into the high risk category where the optimal budget is higher starting at 125 million dollars and up.
+![](images/budgetvprofitanimation.png)
+
 ### Runtime
 ![](images/runtimeaction.png)
 ![](images/runtimeanimation.png)
@@ -49,7 +55,7 @@ We recommend that Microsoft stakeholders evaluate their budget for the movie and
 
 ## For More Information
 
-Please review our full analysis in
+Please review our full analysis in our repository.
 
 For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.edu, Joe Swing at jcswing@bsc.edu, & Jacob Hoogstra at hoogstraj@gmail.com**
 
