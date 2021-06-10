@@ -26,7 +26,9 @@ As our analysis started to come to an end, we came up with a range of options fo
 ### Vote Count
 ![](images/vote_count.png)
 ### Revenue  and Budget
+
 ![](images/revandbudgetpergenre.png)
+
 ### Budget v Profit 
 ![](images/budgetvprofitaction.png)
 ![](images/budgetvprofitanimation.png)
@@ -54,9 +56,9 @@ For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.e
 ## Repository Structure
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── cleaning_of_data.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                           
+├── cleaning_of_data.ipynb  
+├── DS_Project_Presentation.pdf         
+├── data                                
+└── images                              
 ```
