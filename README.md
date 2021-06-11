@@ -1,5 +1,6 @@
 # Movie Analysis
 #### Joe Swing, Kamryn Bendolph, Jacob Hoogstra
+##### *Read in light mode for best reader experience*
 
 ## Overview
 
@@ -30,23 +31,29 @@ As our analysis started to come to an end, we came up with a range of options fo
 ![](images/revandbudgetpergenre.png)
 
 ### Budget v Profit 
-Sci-Fi Action movies fall into the low risk category where the optimal budget falls between 25-75 million dollars.
-![](images/budgetvprofitaction.png)
-![](images/budgetvprofitscifi.png)
-
-Rom-Com films fall into the medium risk category where the optimal budget falls between 75-125 million dollars.
+Rom-Com movies fall into the low risk category where the optimal budget falls between 25-75 million dollars.
 ![](images/budgetvprofitcomedy.png)
 ![](images/budgetvprofitromance.png)
+
+
+Sci-Fi films fall into the medium risk category where the optimal budget falls between 75-125 million dollars.
+![](images/budgetvprofitaction.png)
+![](images/budgetvprofitscifi.png)
 
 Animation movies fall into the high risk category where the optimal budget is higher starting at 125 million dollars and up.
 ![](images/budgetvprofitanimation.png)
 
 ### Runtime
-![](images/runtimeaction.png)
-![](images/runtimeanimation.png)
+These are the top twenty runtimes based on popularity for each genre. For your lower risk movies, you runtime should be between 100-120 minutes. 
 ![](images/runtimecomedy.png)
 ![](images/runtimeromance.png)
+For your medium risk movie range, again, you will want to be in that 100-120 minute range. Sometimes these movies can be a little longer than that, but I recommend that range.
+![](images/runtimeaction.png)
 ![](images/runtimescifi.png)
+Lastly, for animation movies, you're going to want to be in the 90-100 minute range. These movies tend to be shorter than others mainly because the longer you go, the more expensive it is.
+![](images/runtimeanimation.png)
+
+
 
 
 ## Conclusions
@@ -55,7 +62,7 @@ We recommend that Microsoft stakeholders evaluate their budget for the movie and
 
 ## For More Information
 
-Please review our full analysis in [our jupyter notebook](./final_notebook.ipynb) or our [presentation](./Phase 1 Presentation.pptx).
+Please review our full analysis in [our jupyter notebook](./final_notebook.ipynb) or our [presentation](./Phase\ 1\ Presentation.pptx).
 
 For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.edu, Joe Swing at jcswing@bsc.edu, & Jacob Hoogstra at hoogstraj@gmail.com**
 
@@ -63,8 +70,8 @@ For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.e
 
 ```
 ├── README.md                           
-├── cleaning_of_data.ipynb  
-├── DS_Project_Presentation.pdf         
+├── final_notebook.ipynb  
+├── Phase 1 Presentation Presentation.pdf         
 ├── data                                
 └── images                              
 ```
