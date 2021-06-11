@@ -21,22 +21,50 @@ As we started to compile of our data and examine it, we realized that there was 
 
 As our analysis started to come to an end, we came up with a range of options for Microsoft to choose from based on their budget and how much risk they are willing to take. These ranges were based on the size of the average size budget that is needed for each genre to be successful. Based on our analysis, in the low risk range, Comedy and Romance were the genres of movies that had the best success and greater chance to generate a successfull movie. In the medium risk range, Action and Sci Fi were the genres that used a medium size budget and had a good chance of success. If Microsoft wanted to go all out and make a big investment, they can create an Animation film that would have a high risk, but a greater chance of a huge payout in the end. 
 
+### Vote Average
+![](images/avgvotes2.png)
+### Vote Count
+![](images/avgvotecount2.png)
+### Revenue  and Budget
+
+![](images/revandbudgetpergenre.png)
+
+### Budget v Profit 
+Sci-Fi Action movies fall into the low risk category where the optimal budget falls between 25-75 million dollars.
+![](images/budgetvprofitaction.png)
+![](images/budgetvprofitscifi.png)
+
+Rom-Com films fall into the medium risk category where the optimal budget falls between 75-125 million dollars.
+![](images/budgetvprofitcomedy.png)
+![](images/budgetvprofitromance.png)
+
+Animation movies fall into the high risk category where the optimal budget is higher starting at 125 million dollars and up.
+![](images/budgetvprofitanimation.png)
+
+### Runtime
+![](images/runtimeaction.png)
+![](images/runtimeanimation.png)
+![](images/runtimecomedy.png)
+![](images/runtimeromance.png)
+![](images/runtimescifi.png)
+
+
 ## Conclusions
 
 We recommend that Microsoft stakeholders evaluate their budget for the movie and select a genre based on the risk level that it requires for it to be a successful movie. As they look at their budget, they can use our suggestions to pick a genre to focus their movie production on. Our analysis focuses on each specific genre, but we do realize that some movies utilize aspects from multiple genres and uses them together. In the future we could analyze what combination of genres makes the most successful movie instead of focusing on each one in its singularity.
 
 ## For More Information
 
-Please review our full analysis in
+Please review our full analysis in our repository.
 
 For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.edu, Joe Swing at jcswing@bsc.edu, & Jacob Hoogstra at hoogstraj@gmail.com**
 
 ## Repository Structure
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── cleaning_of_data.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                           
+├── cleaning_of_data.ipynb  
+├── DS_Project_Presentation.pdf         
+├── data                                
+└── images                              
 ```
