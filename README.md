@@ -62,7 +62,7 @@ We recommend that Microsoft stakeholders evaluate their budget for the movie and
 
 ## For More Information
 
-Please review our full analysis in [our jupyter notebook](./final_notebook.ipynb) or our [presentation](./Phase\ 1\ Presentation.pptx).
+Please review our full analysis in [our jupyter notebook](./final_notebook.ipynb) or [our presentation](./Phase_1_Presentation.pptx).
 
 For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.edu, Joe Swing at jcswing@bsc.edu, & Jacob Hoogstra at hoogstraj@gmail.com**
 
@@ -71,7 +71,7 @@ For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.e
 ```
 ├── README.md                           
 ├── final_notebook.ipynb  
-├── Phase 1 Presentation Presentation.pdf         
+├── Phase_1_Presentation.pdf         
 ├── data                                
 └── images                              
 ```
